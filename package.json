@@ -12,14 +12,21 @@
     "url": "git+https://github.com/krokojabba/hexlet-js.git"
   },
   "author": {
-    "name" : "Sergey Pilyugin",
-    "email" : "krokojabba@gmail.com",
-    "url" : "https://github.com/krokojabba"
+    "name": "Sergey Pilyugin",
+    "email": "krokojabba@gmail.com",
+    "url": "https://github.com/krokojabba"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/krokojabba/hexlet-js/issues",
     "email": "krokojabba@gmail.com"
   },
-  "homepage": "https://github.com/krokojabba/hexlet-js#readme"
+  "homepage": "https://github.com/krokojabba/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "prettier": "^2.8.1"
+  }
 }
