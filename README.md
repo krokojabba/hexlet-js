@@ -2,4 +2,4 @@
 
 Мой первый проект на Хекслете
 
-[![asciicast](https://asciinema.org/a/y20IoPcSgaDRI1ycuXLM19ZgN.svg)](https://asciinema.org/a/y20IoPcSgaDRI1ycuXLM19ZgN)
+<script id="asciicast-y20IoPcSgaDRI1ycuXLM19ZgN" src="https://asciinema.org/a/y20IoPcSgaDRI1ycuXLM19ZgN.js" async></script>
